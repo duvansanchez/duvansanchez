@@ -1,9 +1,6 @@
 # Hi! I'm Duvan Sanchez🤝
-<h3 align="left">I'm a technology enthusiast and am always looking for new ways to learn and improve my skills. I have
-    experience in several programming languages and have worked on personal and team projects to develop functional
-    solutions.</h3>
+<h3 align="left">I'm a technology enthusiast and I'm always looking for new ways to learn and improve my skills. I have experience in different technologies that allow to be applied in projects that involve functional solutions.</h3>
 
-<br>
 <h3 align="left">Technologies implemented: 🤖</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer" > 
         <img
